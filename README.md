@@ -1,10 +1,20 @@
-# Welcome to [Astro](https://astro.build)
+# AWebFactory.com Remake
+
+## See [commits] to follow step by step migration of content from the closed monolith (Drupal, Wordpress) to a content-model and design-system driven old-timer's professional homepage based on Astro (SSG mode for starters), Tailwind CSS and Markdown as content.
+
+## As soon as we get off the ground, will be continuing this `#buildinpublic` and `#codeinpublic` endeavor on the blog itself, so wait for the link: TODO
+
+---
+
+[original Astro README]
+
+## Welcome to [Astro](https://astro.build)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-## 🚀 Project Structure
+### 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
 
@@ -26,7 +36,7 @@ There's nothing special about `src/components/`, but that's where we like to put
 
 Any static assets, like images, can be placed in the `public/` directory.
 
-## 🧞 Commands
+### 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
 
@@ -37,6 +47,6 @@ All commands are run from the root of the project, from a terminal:
 | `npm run build`   | Build your production site to `./dist/`      |
 | `npm run preview` | Preview your build locally, before deploying |
 
-## 👀 Want to learn more?
+### 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
