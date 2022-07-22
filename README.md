@@ -1,8 +1,12 @@
 # AWebFactory.com Remake
 
-## See [commits] to follow step by step migration of content from the closed monolith (Drupal, Wordpress) to a content-model and design-system driven old-timer's professional homepage based on Astro (SSG mode for starters), Tailwind CSS and Markdown as content.
+## Site being built as we speak
 
-## As soon as we get off the ground, will be continuing this `#buildinpublic` and `#codeinpublic` endeavor on the blog itself, so wait for the link: TODO
+See [commits](https://github.com/awebfactory/awebfactory.com/commits/main) to follow step by step migration of content from the closed monolith (Drupal, Wordpress) to a content-model and design-system driven old-timer's professional homepage based on Astro (SSG mode for starters), Tailwind CSS and Markdown as content.
+
+## Follow progress on the site itself
+
+As soon as we get off the ground, will be continuing this `#buildinpublic` and `#codeinpublic` endeavor on the blog itself, so wait for the link: TODO
 
 ---
 
